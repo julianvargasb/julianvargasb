@@ -1,7 +1,4 @@
-<!--
-CONFIG
-FULL_NAME: Wilkyn Julian Vargas Bahamon
+FULL_NAME: Wilkyn Julián Vargas Bahamón
 GITHUB_USER: julianvargasb
--->
-## Hi there 👋
-
+TEAM: The illusionists
+SPRINT_GOAL: ...
