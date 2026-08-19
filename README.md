@@ -1,4 +1,7 @@
-FULL_NAME: Wilkyn Julián Vargas Bahamón
-GITHUB_USER: julianvargasb
-TEAM: The illusionists
-SPRINT_GOAL: ...
+<!--
+CONFIG
+FULL_NAME: Juan Diego Tovar Rodriguez
+GITHUB_USER: jdtovar07
+-->
+
+## Hi there
